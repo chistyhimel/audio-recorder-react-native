@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-audio-recorder-player": "^3.6.6",
+    "react-native-fs": "^2.20.0",
+    "react-native-sound-player": "^0.13.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
